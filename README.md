@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/la0rg/tribonacci)](https://goreportcard.com/report/github.com/la0rg/tribonacci)
+
 # Tribonacci
 
 Tribonacci is a RESTful web service written in Go that calculates the [Tribonacci numbers](http://oeis.org/wiki/Tribonacci_numbers).
